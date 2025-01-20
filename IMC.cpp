@@ -1,21 +1,3 @@
-//int é para numeros;
-//string é para letras e palavras
-//boolean é para true ou false
-//float é para numeros que não são inteiros (numeros com virgulas)
-
-//IMPORTANTE: NUNCA ESQUECER DO PONTO E VIRGULA AO FINAL DA LINHA
-
-//CIN>> para quando quiser pegar alguma informaçção do teclado dod usuario
-//COUT<< para quando quiser mostrar algo em tela para o usuario
-
-// IF é para verificar uma condição e ELSE é para quando essa mesma condição não é verdadeira
-
-//IF(TU ME AMA){
-//	  me compra um sorvete de flocos
-//}ELSE{
-//	  mim esquece
-//}
-//Utilizar "." para numeros quebrados
 #include <iostream>
 using namespace std;
 
