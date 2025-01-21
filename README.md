@@ -24,7 +24,7 @@
 <h2>🛠️ Construído com</h2>
 
 <ul>
-  <li>C++.</li>
+  <li>C++</li>
 </ul>
 
 <h2>📌 Versão</h2>
@@ -33,8 +33,8 @@
 
 <h2>✒️ Autor</h2>
 
-<p>Diego Dias</p>
+<p>Diego Dias | <a href="www.linkedin.com/in/diego-felippe-dias">Linkedin</a></p> 
 
 <h2>🚧 Em construção</h2>
 
-<p>Memos sendo meu primeiro projeto, estou comprometidos em melhorar a experiência do usuário e a funcionalidade do aplicativo. Agradeço sua compreensão e aguardo por feedbacks!</p>
+<p>Mesmo sendo meu primeiro projeto, estou comprometido em melhorar a experiência do usuário e a funcionalidade do aplicativo. Agradeço sua compreensão e aguardo por feedbacks!</p>
