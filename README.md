@@ -29,7 +29,7 @@
 
 <h2>📌 Versão</h2>
 
-<p>Este projeto encontra-se em sua primeira versão.</p>
+<p>Este projeto encontra-se em sua segunda versão.</p>
 
 <h2>✒️ Autor</h2>
 
